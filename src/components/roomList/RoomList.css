@@ -1,0 +1,9 @@
+.rt-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: crimson;
+}
+.rt-center:hover{
+    background-color: yellow;
+}
